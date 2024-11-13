@@ -1,0 +1,21 @@
+[
+    {
+      "titulo": "Puré de Papas",
+      "imagen": "https://www.numar.net/wp-content/uploads/2022/08/Pure-de-papa-cremoso-al-estilo-Numar.jpg",
+      "ingredientes": ["4 Papas grandes", "1/2 taza de leche", "50 g de mantequilla", "Sal y pimienta al gusto"],
+      "instrucciones": "Cocina las papas en agua hirviendo hasta que estén tiernas. Escurre, agrega mantequilla y leche, y aplasta hasta obtener una textura cremosa. Sazona con sal y pimienta."
+    },
+    {
+      "titulo": "Papas al Horno",
+      "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/CE2B579D-3DCA-498D-983E-BBA0573E44AC/Derivates/6250BDF5-8410-4D7C-B80D-78EE8A113C90.jpg",
+      "ingredientes": ["4 Papas medianas", "2 cucharadas de aceite de oliva", "Romero al gusto", "Sal y pimienta al gusto"],
+      "instrucciones": "Corta las papas en cuartos, mezcla con aceite y especias, y hornea a 200°C durante 30-35 minutos."
+    },
+    {
+      "titulo": "Ensalada de Papas",
+      "imagen": "https://www.maricruzavalos.com/wp-content/uploads/2019/06/potato_salad_recipe.jpg",
+      "ingredientes": ["3 Papas medianas", "1/2 taza de mayonesa", "1/4 cebolla picada", "Sal y pimienta al gusto"],
+      "instrucciones": "Cocina las papas y pélalas. Corta en cubos y mezcla con los demás ingredientes. Refrigera antes de servir."
+    }
+  ]
+  

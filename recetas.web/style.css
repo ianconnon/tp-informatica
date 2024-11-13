@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffe4e1;
+    color: #6a1b1a;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff0f5;
+    border: 1px solid #ffccd5;
+    border-radius: 8px;
+}
+
+.recipe {
+    border-bottom: 1px solid #ffb6c1;
+    padding: 15px 0;
+}
+
+.recipe img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+button {
+    background-color: #ff99a7;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #ff5a75;
+}
+
+.details {
+    display: none;
+    padding: 10px;
+    background-color: #ffe4e1;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+/* Estilo del mensaje flotante */
+.message {
+    display: none; /* Oculto por defecto */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffccd5;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    max-width: 90%;
+    z-index: 1000;
+    padding: 20px;
+}
+
+.message-content {
+    position: relative;
+}
+
+#close-btn {
+    position: absolute;
+    bottom: 90%;
+    right: 10px;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#message-text {
+    color: #6a1b1a;
+}
