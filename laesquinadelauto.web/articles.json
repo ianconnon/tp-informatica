@@ -1,0 +1,122 @@
+[
+    {
+        "title": "BMW X1",
+        "brand": "BMW",
+        "description": "Crossover, 2018, 60,000 km, automatic, excellent condition",
+        "price": "$35,000",
+        "location": "Pilar",
+        "image": "source/image1.png"
+    },
+    {
+        "title": "Toyota Corolla",
+        "brand": "Toyota",
+        "description": "Sedan, 2020, 20,000 km, manual, like new",
+        "price": "$22,000",
+        "location": "Pilar - Bs.As. G.B.A. Norte",
+        "image": "source/image2.png"
+    },
+    {
+        "title": "Honda Civic",
+        "brand": "Honda",
+        "description": "Sedan, 2019, 30,000 km, automatic, well maintained",
+        "price": "$25,000",
+        "location": "Pilar - Bs.As. G.B.A. Norte",
+        "image": "source/image3.png"
+    },
+    {
+        "title": "Ford Ranger",
+        "brand": "Ford",
+        "description": "Pickup, 2017, 80,000 km, 4x4, ideal for off-road",
+        "price": "$28,500",
+        "location": "Pilar",
+        "image": "source/image4.png"
+    },
+    {
+        "title": "Chevrolet Cruze",
+        "brand": "Chevrolet",
+        "description": "Hatchback, 2021, 15,000 km, automatic, excellent fuel economy",
+        "price": "$23,500",
+        "location": "Pilar - Bs.As. G.B.A. Norte",
+        "image": "source/image5.png"
+    },
+    {
+        "title": "Nissan Versa",
+        "brand": "Nissan",
+        "description": "Sedan, 2019, 50,000 km, automatic, comfortable interior",
+        "price": "$18,000",
+        "location": "Pilar",
+        "image": "source/image6.png"
+    },
+    {
+        "title": "Renault Duster",
+        "brand": "Renault",
+        "description": "SUV, 2020, 40,000 km, manual, spacious and reliable",
+        "price": "$20,000",
+        "location": "Pilar - Bs.As. G.B.A. Norte",
+        "image": "source/image7.png"
+    },
+    {
+        "title": "Volkswagen Gol",
+        "brand": "Volkswagen",
+        "description": "Hatchback, 2018, 70,000 km, manual, economical and practical",
+        "price": "$13,500",
+        "location": "Pilar - Bs.As. G.B.A. Norte",
+        "image": "source/image8.png"
+    },
+    {
+        "title": "Hyundai Tucson",
+        "brand": "Hyundai",
+        "description": "SUV, 2019, 45,000 km, automatic, great for family trips",
+        "price": "$26,000",
+        "location": "Pilar",
+        "image": "source/image9.png"
+    },
+    {
+        "title": "Fiat Palio",
+        "brand": "Fiat",
+        "description": "Hatchback, 2017, 85,000 km, manual, affordable and reliable",
+        "price": "$10,000",
+        "location": "Pilar - Bs.As. G.B.A. Norte",
+        "image": "source/image10.png"
+    },
+    {
+        "title": "Mazda CX-5",
+        "brand": "Mazda",
+        "description": "SUV, 2018, 35,000 km, automatic, sporty and efficient",
+        "price": "$29,000",
+        "location": "Pilar",
+        "image": "source/image11.png"
+    },
+    {
+        "title": "Jeep Renegade",
+        "brand": "Jeep",
+        "description": "SUV, 2019, 50,000 km, automatic, off-road capabilities",
+        "price": "$27,500",
+        "location": "Pilar - Bs.As. G.B.A. Norte",
+        "image": "source/image12.png"
+    },
+    {
+        "title": "Chevrolet Onix",
+        "brand": "Chevrolet",
+        "description": "Sedan, 2020, 20,000 km, automatic, compact and modern",
+        "price": "$19,000",
+        "location": "Pilar",
+        "image": "source/image13.png"
+    },
+    {
+        "title": "Ford Fiesta",
+        "brand": "Ford",
+        "description": "Hatchback, 2016, 90,000 km, manual, great for city driving",
+        "price": "$11,500",
+        "location": "Pilar - Bs.As. G.B.A. Norte",
+        "image": "source/image14.png"
+    },
+    {
+        "title": "Kia Sportage",
+        "brand": "Kia",
+        "description": "SUV, 2021, 10,000 km, automatic, latest model",
+        "price": "$32,000",
+        "location": "Pilar - Bs.As. G.B.A. Norte",
+        "image": "source/image15.png"
+    }
+]
